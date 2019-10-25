@@ -6,7 +6,7 @@ import javax.validation.constraints.NotNull;
 
 @Data
 public class ImageRequest {
-    @NotNull
+    //@NotNull
     private String image;
 }
 
